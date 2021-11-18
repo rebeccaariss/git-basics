@@ -21,9 +21,9 @@ For adding updates and any changes to a project repository
 ## Workflow for Working on a New Branch
 1. **git branch** to see working branch (highlighted with " * ") as well as other existing branches
 2. **git branch newbranchname** to create a new branch
- **git branch** again to confirm that your new branch is now listed
+ - **git branch** again to confirm that your new branch is now listed
 3. **git checkout newbranchname** to switch from initial branch to newly created branch
-4. Once you've finished your work on the project, repeat the basic workflow for any changes you made (**status**, **add**, **commit**, **push**).
+4. Once you've finished your work on the project, repeat the *Basic Git Workflow* for any changes you made (**status**, **add**, **commit**, **push**).
 
 ## A Note on Pull Requests:
 A pull request is not always made to your own computer (re: using **git pull** to start your work day).
@@ -32,8 +32,8 @@ A pull request is not always made to your own computer (re: using **git pull** t
 Here's that workflow again in plain English:
 1. Pull request is made by developer who has made changes to project within side branch
 2. Senior developer (most likely) reviews the changes and can suggest edits (they can even leave comments on specific lines requiring changes)
- If editing is required, side branch dev makes the necessary changes before initiating another pull request
- This inner cycle repeats until the code is ready to be added to the main branch
+ - If editing is required, side branch dev makes the necessary changes before initiating another pull request
+ - This inner cycle repeats until the code is ready to be added to the main branch
 3. Senior developer approves the changes and clicks the big green button (from the GitHub UI) to merge changes onto main branch
 4. Do it all over again!
 
