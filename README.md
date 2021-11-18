@@ -1,6 +1,6 @@
 # git-basics
 The most frequently used Git commands &amp; workflows boiled down to the absolute basics
-Study notes for the *Git + GitHub + Open Source Projects* section of [Andrei Neagoie](https://twitter.com/AndreiNeagoie)'s [The Complete Web Developer in 2022: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+Study notes for the *Git + GitHub + Open Source Projects* section of [Andrei Neagoie's](https://twitter.com/AndreiNeagoie) [The Complete Web Developer in 2022: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 *Please note that this information reflects my current understanding of Git & GitHub and might have some mistakes! I am still learning and would appreciate any feedback or edits to this file. Feel free to open a request for corrections.*
 
