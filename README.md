@@ -1,11 +1,12 @@
 # git-basics
 The most frequently used Git commands &amp; workflows boiled down to the absolute basics
+
 Study notes for the *Git + GitHub + Open Source Projects* section of [Andrei Neagoie's](https://twitter.com/AndreiNeagoie) [The Complete Web Developer in 2022: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 *Please note that this information reflects my current understanding of Git & GitHub and might have some mistakes! I am still learning and would appreciate any feedback or edits to this file. Feel free to open a request for corrections.*
 
 ## Basic Git Workflow
-###### For adding updates and any changes to a project repository
+For adding updates and any changes to a project repository
 1. **git status**
 2. **git add ______** either " **.** " (all files in working directory) *or* "**filename.ext**"
 3. **git commit -m “message here”**
@@ -28,7 +29,7 @@ Study notes for the *Git + GitHub + Open Source Projects* section of [Andrei Nea
 A pull request is not always made to your own computer (re: using **git pull** to start your work day).
 **Merging** to the *main branch* (or *production*) happens *as a result of a pull request* which has been approved by a team member who has the authority to approve requests. Effectively, the changes you have made while working on a new feature from a side branch will be "pulled" into the main branch.
 
-###### Here's that workflow again in plain English:
+Here's that workflow again in plain English:
 1. Pull request is made by developer who has made changes to project within side branch
 2. Senior developer (most likely) reviews the changes and can suggest edits (they can even leave comments on specific lines requiring changes)
  - If editing is required, side branch dev makes the necessary changes before initiating another pull request
