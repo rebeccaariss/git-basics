@@ -8,7 +8,7 @@ Study notes for the *Git + GitHub + Open Source Projects* section of [Andrei Nea
 ## Basic Git Workflow
 For adding updates and any changes to a project repository
 1. **git status**
-2. **git add ______** either " **.** " (all files in working directory) *or* "**filename.ext**"
+2. **git add ______** (either " **.** ", *or* "**filename.ext**")
 3. **git commit -m “message here”**
 4. **git push** (to repository) (when this command is executed, pull request is automatically created on GitHub repo)
 5. From the GitHub repository *Pull Requests* tab, you can then *open* this pull request and leave a more detailed message for your teammates (for example: *"**Name**, I have changed **feature** to accomplish **x**. What do you think?"*)
