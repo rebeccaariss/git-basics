@@ -7,6 +7,8 @@ Study notes for the *Git + GitHub + Open Source Projects* section of [Andrei Nea
 
 ## Basic Git Workflow
 For adding updates and any changes to a project repository
+> **DON'T FORGET** to either **clone** your manually created repository from GitHub (HTTPS option; copy link provided) OR **git init** to create a new repository from the command line.
+
 1. **git status**
 2. **git add ______** (either " **.** ", *or* "**filename.ext**")
 3. **git commit -m “message here”**
